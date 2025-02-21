@@ -1,0 +1,5 @@
+url: "https://coderic.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/crowdfunding" # the subpath of your site, e.g. /blog
+title: "Coderic" # the name of your site, e.g. ACME Corp.
+network: ""
+remote_theme: Coderic/coderic.org
